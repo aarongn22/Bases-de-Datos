@@ -1,0 +1,14 @@
+body
+{
+  text-align:center;
+  font-family:fantasy;
+  color:black;
+  background-image: url(../images/font3.1.jpg);
+}
+img
+{
+  height:300px;
+  width:300px;
+  position:relative;
+  top:150px;
+}
